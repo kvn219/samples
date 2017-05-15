@@ -4,8 +4,8 @@
 
 > **ETL** (Extract, Transform and Load) is a process in data warehousing responsible for pulling data out of the source systems and placing it into a data warehouse.
 
-- [Social Media Analysis for Foundations](http://nbviewer.jupyter.org/github/kvn219/samples/blob/master/FoundationSearch/Foundation%20Search.ipynb)
-- [Automated Search Queries](http://nbviewer.jupyter.org/github/kvn219/samples/blob/master/ReliefWeb/ETL%20from%20API.ipynb)
+- [Connect and Organize Social Media Data](http://nbviewer.jupyter.org/github/kvn219/samples/blob/master/FoundationSearch/Foundation%20Search.ipynb)
+- [Connect and Organize News Media Data](http://nbviewer.jupyter.org/github/kvn219/samples/blob/master/ReliefWeb/ReliefWebAPI%20ETL.ipynb)
 
 ### Exploratory Data Analysis (EDA)
 
