@@ -7,9 +7,9 @@
 - Social Media Analysis for Foundations
 - Automated Search Queries 
 
-### `Exploratory` Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
-> Quick descriptive analysis
+> Examples of quick analysis 
 
 - [New York City Seasonal Trends in Pedestrian Injuries]()
 - [Frequency of Fire Incidents in SF Neighborhoods]()
@@ -17,7 +17,7 @@
 
 ### Data Science/Machine Learning (DS) 
 
-> Example of some ML projects
+> Examples of machine learning projects
 
 - [Multi-Number-Recognition using Street View Housing Numbers](https://github.com/kvn219/multi-number-recognition/blob/master/README.md)
   - [Evaluation](http://nbviewer.jupyter.org/github/kvn219/multi-number-recognition/blob/master/notebooks/3_Model_Evaluation.ipynb) 
@@ -26,7 +26,7 @@
 
 ### Visualizations (VIZ)
 
-> Some example interactive visualizations
+> Examples of interactive visualizations
 
 - [The American Scientist](https://kvn219.github.io/elevate/)
 
@@ -41,6 +41,4 @@
 - [ACS Demographics and New York Schools](https://kvn219.github.io/NYC-MAPS/MEASURING-NYS-DIVERSITY/)
 
 - [New York School Diversity](https://kvn219.github.io/NYC-MAPS/DIVERSITY-MAP/)
-
-  ​
 
